@@ -8,7 +8,7 @@ Collect and organize publicly accessible members from active Telegram groups to 
 
 ##
 
-![Screenshot Description](https://shop.kenzabyte.com/wp-content/uploads/2025/02/tool-add-member-telegram.webp)
+![Screenshot Description]([https://shop.kenzabyte.com/wp-content/uploads/2025/02/tool-add-member-telegram.webp](https://shop.kenzabyte.com/wp-content/uploads/2026/05/telegram-group-add-members.webp))
 
 #
 ## Contact :-
@@ -27,6 +27,11 @@ Collect and organize publicly accessible members from active Telegram groups to 
 - ✅ Platform: Windows 10/11 ,Windows RDP
 
 - ✅ RAM: Minimum 4GB
+
+
+##
+
+![Screenshot Description](https://shop.kenzabyte.com/wp-content/uploads/2025/02/tool-add-member-telegram.webp)
 
 #
 ## Watch it : how it works ?
