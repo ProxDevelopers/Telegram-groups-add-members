@@ -8,7 +8,8 @@ Collect and organize publicly accessible members from active Telegram groups to 
 
 ##
 
-![Screenshot Description]([https://shop.kenzabyte.com/wp-content/uploads/2025/02/tool-add-member-telegram.webp](https://shop.kenzabyte.com/wp-content/uploads/2026/05/telegram-group-add-members.webp)
+![Screenshot Description](https://shop.kenzabyte.com/wp-content/uploads/2026/05/telegram-group-add-members.webp)
+
 
 #
 ## Contact :-
